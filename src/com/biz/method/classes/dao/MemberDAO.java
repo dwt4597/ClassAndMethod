@@ -1,6 +1,6 @@
 package com.biz.method.classes.dao;
 
-import com.biz.method.classes.oop01.MemberVO;
+import com.biz.method.classes.vo.MemberVO;
 
 public class MemberDAO {
 

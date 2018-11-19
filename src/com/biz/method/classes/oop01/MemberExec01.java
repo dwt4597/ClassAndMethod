@@ -1,5 +1,7 @@
 package com.biz.method.classes.oop01;
 
+import com.biz.method.classes.vo.MemberVO;
+
 public class MemberExec01 {
 
 	public static void main(String[] args) {
